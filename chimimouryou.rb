@@ -1,4 +1,4 @@
-class Chimi < Formula
+class Chimimouryou < Formula
   desc "A Terminal Anime Streaming CLI"
   homepage "https://github.com/mortezafa/Chimimouryou"
   url "https://github.com/mortezafa/Chimimouryou/archive/refs/tags/v1.0.0.tar.gz"
