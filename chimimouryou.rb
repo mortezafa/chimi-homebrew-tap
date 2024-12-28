@@ -11,7 +11,7 @@ class Chimimouryou < Formula
 
   def install
     # Build the Go binary
-    system "go", "build", "-o", "#{bin}/chimi", "./cmd/main.go"
+    system "go", "build", "-o", "#{bin}/chimi", "./main.go"
   end
 
   test do
